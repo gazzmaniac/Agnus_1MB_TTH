@@ -13,7 +13,7 @@ There are two other Agnus cards to choose from; a 1 MB card that uses SMD ram in
 
 2 MB Agnus card: https://github.com/gazzmaniac/SMD2000_Agnus2MB 
 
-1 MB SMD Agnus card: https://github.com/gazzmaniac/Agnus_1MB 
+1 MB SMD Agnus card: https://github.com/gazzmaniac/SMD2000_Agnus_1MB 
 
 
 ## Licensing
